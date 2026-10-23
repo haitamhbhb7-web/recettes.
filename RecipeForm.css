@@ -1,0 +1,7 @@
+.recipe-form {
+  max-width: 640px;
+  margin: 24px auto;
+  padding: 24px;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+}
